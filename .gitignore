@@ -1,0 +1,44 @@
+# Archivos temporales de Office
+~$*.xlsm
+~$*.xlsx
+~$*.docx
+*.tmp
+*.bak
+
+# Archivos de bloqueo de Excel
+.~lock.*
+
+# Archivos de sistema Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Carpeta de PDFs generados por el sistema (contienen datos reales)
+PDFs Generados/
+PDFs_Generados/
+
+# Archivos de contraseñas / credenciales
+contraseñas.txt
+passwords.txt
+claves.txt
+*.env
+
+# Respaldos automáticos del sistema
+*_backup.*
+*_respaldo.*
+
+# Caché de Python (si se usa para scripts auxiliares)
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.suo
+*.user
