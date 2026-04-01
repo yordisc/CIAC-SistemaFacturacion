@@ -32,7 +32,6 @@ La administración del CIAC requería una solución práctica para **digitalizar
 
 ```
 CIAC-SistemaFacturacion/
-├── CIAC_SistemaFacturacion.xlsm       # Archivo principal del sistema
 ├── README.md
 ├── .gitignore
 │
@@ -211,6 +210,4 @@ Desarrollado por: **Yordis E. Cujar M.**
 
 ## 📝 Notas
 
-- El archivo `.xlsm` incluido en el repositorio **contiene datos de prueba ficticios**, no datos reales del CIAC.
-- Las contraseñas de acceso **no están incluidas** en este repositorio por razones de seguridad.
 - Este proyecto fue desarrollado para uso interno institucional. Se comparte con fines de portafolio.
